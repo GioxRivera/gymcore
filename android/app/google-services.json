@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394891414283",
+    "project_id": "gymcore-e6ce9",
+    "storage_bucket": "gymcore-e6ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394891414283:android:2b3c47e88c92f3a6d4f00e",
+        "android_client_info": {
+          "package_name": "com.titulacion.gymcore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwbG8DVlo87Xjm-Qpv7LXXnbO0v8PKPzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
